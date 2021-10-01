@@ -1,3 +1,16 @@
-p {
-  background-color: red;
+h1 {
+  color: blue;
 }
+
+#jatkuu {
+  color: red;
+}
+
+.pinkki-teksti {
+  color: pink;
+}
+
+.ruskea-teksti {
+  color: brown;
+}
+
